@@ -4,4 +4,4 @@ Hello World
 
 Some links to some other stuff:
 
-[example link][other_page]
+[example link](other_page)
