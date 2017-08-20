@@ -1,8 +1,3 @@
----
-title: index
-layout: post
----
-
 # Morgan Group
 
 Hello World
